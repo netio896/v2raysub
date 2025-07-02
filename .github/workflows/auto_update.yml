@@ -2,7 +2,7 @@ name: 自动抓取订阅并更新仓库
 
 on:
   schedule:
-    - cron: '0 2 * * *'  # 每天 10:00（北京时间）
+    - cron: '0 2 * * *'
   workflow_dispatch:
 
 jobs:
@@ -30,6 +30,7 @@ jobs:
         run: |
           git config user.name "AutoUpdater"
           git config user.email "updater@users.noreply.github.com"
+          git remote set-url origin https://$GH_TOKEN@github.com/netio896/v2raysub.git
           git add .
           git commit -m "📦 自动更新订阅数据 [$(date +'%Y-%m-%d %H:%M')]" || echo "nothing to commit"
-          git push https://$GH_TOKEN@github.com/netio896/v2raysub.git HEAD:main
+          git push origin HEAD:main

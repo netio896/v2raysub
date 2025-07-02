@@ -9,7 +9,7 @@ target_urls = [
     "https://github.com/18519194800/-"
 ]
 
-pattern = re.compile(r'https://raw\\.githubusercontent\\.com/[^\\s"\\']+\\.(txt|yaml)')
+pattern = re.compile(r'https://raw\.githubusercontent\.com/[^\s"\'()]+?\.(txt|yaml)')
 headers = {"User-Agent": "Mozilla/5.0"}
 valid_links = []
 

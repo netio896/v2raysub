@@ -29,7 +29,7 @@ for url in target_urls:
 with open("valid_links.txt", "w", encoding="utf-8") as f:
     f.write(f"# 更新时间：{datetime.now()}\n")
     for link in valid_links:
-        f.write(link + "\\n")
+        f.write(link + "\n")  # ✅ 修复换行
 
 substore_data = {
     "subs": [{"name": f"订阅{i+1}", "url": link} for i, link in enumerate(valid_links)]
@@ -39,3 +39,5 @@ with open("substore.json", "w", encoding="utf-8") as f:
 
 with open("substore_url.txt", "w", encoding="utf-8") as f:
     f.write("|".join(valid_links))
+
+print(f"✅ 共获取到 {len(valid_links)} 条有效订阅链接")

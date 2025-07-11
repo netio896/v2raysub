@@ -1,4 +1,4 @@
-# 更新时间：2025-07-10 03:19:31.854095
+# 更新时间：2025-07-11 03:25:11.736947
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/clashmeta.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/ndnode.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodev2ray.txt
@@ -31,6 +31,5 @@ https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub3.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub4.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub5.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub6.txt
-https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub7.txt
 https://raw.githubusercontent.com/hkaa0/permalink/main/proxy/V2ray.txt
 https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml

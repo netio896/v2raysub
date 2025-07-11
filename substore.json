@@ -130,14 +130,10 @@
     },
     {
       "name": "订阅33",
-      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub7.txt"
-    },
-    {
-      "name": "订阅34",
       "url": "https://raw.githubusercontent.com/hkaa0/permalink/main/proxy/V2ray.txt"
     },
     {
-      "name": "订阅35",
+      "name": "订阅34",
       "url": "https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml"
     }
   ]

@@ -1,4 +1,4 @@
-# 更新时间：2025-11-15 03:04:03.500871
+# 更新时间：2025-11-16 03:15:32.960722
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/clashmeta.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/ndnode.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodev2ray.txt

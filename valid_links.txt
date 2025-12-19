@@ -1,5 +1,4 @@
-# 更新时间：2025-12-18 03:18:00.245468
-https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.txt
+# 更新时间：2025-12-19 03:21:23.684054
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/hysteria2.txt
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/ss.txt
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/trojan.txt
@@ -27,7 +26,3 @@ https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub5.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub6.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub7.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub8.txt
-https://raw.githubusercontent.com/dalazhi/v2ray/refs/heads/main/data/base64-1.txt
-https://raw.githubusercontent.com/ovmvo/SubShare/refs/heads/main/sub/permanent/mihomo.yaml
-https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt
-https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml

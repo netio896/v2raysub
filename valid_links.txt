@@ -1,4 +1,4 @@
-# 更新时间：2026-02-12 04:22:18.651727
+# 更新时间：2026-02-13 04:19:38.087018
 https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.txt
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/hysteria2.txt
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/ss.txt

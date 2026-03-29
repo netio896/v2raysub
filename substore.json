@@ -94,18 +94,22 @@
     },
     {
       "name": "订阅24",
-      "url": "https://raw.githubusercontent.com/dalazhi/v2ray/refs/heads/main/data/base64-1.txt"
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub4.txt"
     },
     {
       "name": "订阅25",
-      "url": "https://raw.githubusercontent.com/ovmvo/SubShare/refs/heads/main/sub/permanent/mihomo.yaml"
+      "url": "https://raw.githubusercontent.com/dalazhi/v2ray/refs/heads/main/data/base64-1.txt"
     },
     {
       "name": "订阅26",
-      "url": "https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt"
+      "url": "https://raw.githubusercontent.com/ovmvo/SubShare/refs/heads/main/sub/permanent/mihomo.yaml"
     },
     {
       "name": "订阅27",
+      "url": "https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt"
+    },
+    {
+      "name": "订阅28",
       "url": "https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml"
     }
   ]

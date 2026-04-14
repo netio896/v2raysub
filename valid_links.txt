@@ -1,4 +1,4 @@
-# 更新时间：2026-04-13 04:55:34.848627
+# 更新时间：2026-04-14 04:42:56.459606
 https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.txt
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/hysteria2.txt
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/ss.txt
@@ -23,6 +23,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub2.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub3.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub4.txt
+https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub5.txt
 https://raw.githubusercontent.com/dalazhi/v2ray/refs/heads/main/data/base64-1.txt
 https://raw.githubusercontent.com/ovmvo/SubShare/refs/heads/main/sub/permanent/mihomo.yaml
 https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt

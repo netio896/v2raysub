@@ -2,7 +2,7 @@
   "subs": [
     {
       "name": "订阅1",
-      "url": "https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.txt"
+      "url": "https://raw.githubusercontent.com/951mmm/nixconfig/979034a291bda1c4a9189ed8e6434d7686c5120a/services/mihomo/cmy.yaml"
     },
     {
       "name": "订阅2",
@@ -54,67 +54,79 @@
     },
     {
       "name": "订阅14",
-      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt"
+      "url": "https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config_extra.yaml"
     },
     {
       "name": "订阅15",
-      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_base64_Sub.txt"
+      "url": "https://raw.githubusercontent.com/anaer/Sub/refs/heads/main/proxies.yaml"
     },
     {
       "name": "订阅16",
-      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/ss.txt"
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt"
     },
     {
       "name": "订阅17",
-      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/ssr.txt"
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_base64_Sub.txt"
     },
     {
       "name": "订阅18",
-      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/trojan.txt"
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/ss.txt"
     },
     {
       "name": "订阅19",
-      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/vless.txt"
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/ssr.txt"
     },
     {
       "name": "订阅20",
-      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/vmess.txt"
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/trojan.txt"
     },
     {
       "name": "订阅21",
-      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt"
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/vless.txt"
     },
     {
       "name": "订阅22",
-      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub2.txt"
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/vmess.txt"
     },
     {
       "name": "订阅23",
-      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub3.txt"
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt"
     },
     {
       "name": "订阅24",
-      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub4.txt"
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub2.txt"
     },
     {
       "name": "订阅25",
-      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub5.txt"
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub3.txt"
     },
     {
       "name": "订阅26",
-      "url": "https://raw.githubusercontent.com/dalazhi/v2ray/refs/heads/main/data/base64-1.txt"
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub4.txt"
     },
     {
       "name": "订阅27",
-      "url": "https://raw.githubusercontent.com/ovmvo/SubShare/refs/heads/main/sub/permanent/mihomo.yaml"
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub5.txt"
     },
     {
       "name": "订阅28",
-      "url": "https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt"
+      "url": "https://raw.githubusercontent.com/dalazhi/v2ray/refs/heads/main/data/base64-1.txt"
     },
     {
       "name": "订阅29",
-      "url": "https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml"
+      "url": "https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt"
+    },
+    {
+      "name": "订阅30",
+      "url": "https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml"
+    },
+    {
+      "name": "订阅31",
+      "url": "https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt"
+    },
+    {
+      "name": "订阅32",
+      "url": "https://raw.githubusercontent.com/xiaoxishui123/clash/950621b6d9c79cdd7fb612d04bef7568193488a2/config.yaml"
     }
   ]
 }

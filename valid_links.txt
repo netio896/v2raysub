@@ -1,5 +1,5 @@
-# 更新时间：2026-04-14 04:42:56.459606
-https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.txt
+# 更新时间：2026-04-15 04:43:07.799364
+https://raw.githubusercontent.com/951mmm/nixconfig/979034a291bda1c4a9189ed8e6434d7686c5120a/services/mihomo/cmy.yaml
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/hysteria2.txt
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/ss.txt
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/trojan.txt
@@ -12,6 +12,8 @@ https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/subs/sub39.txt
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/subs/sub4.txt
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/super-sub.txt
+https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config_extra.yaml
+https://raw.githubusercontent.com/anaer/Sub/refs/heads/main/proxies.yaml
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_base64_Sub.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/ss.txt
@@ -25,6 +27,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub3.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub4.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub5.txt
 https://raw.githubusercontent.com/dalazhi/v2ray/refs/heads/main/data/base64-1.txt
-https://raw.githubusercontent.com/ovmvo/SubShare/refs/heads/main/sub/permanent/mihomo.yaml
+https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt
+https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt
-https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
+https://raw.githubusercontent.com/xiaoxishui123/clash/950621b6d9c79cdd7fb612d04bef7568193488a2/config.yaml

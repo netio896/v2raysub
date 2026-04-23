@@ -1,4 +1,4 @@
-# 更新时间：2026-04-22 04:43:51.484383
+# 更新时间：2026-04-23 04:47:58.838059
 https://raw.githubusercontent.com/951mmm/nixconfig/979034a291bda1c4a9189ed8e6434d7686c5120a/services/mihomo/cmy.yaml
 https://raw.githubusercontent.com/Alex0510/onskr/refs/heads/main/proxies.txt
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/hysteria2.txt
@@ -27,6 +27,8 @@ https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub3.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub4.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub5.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub6.txt
+https://raw.githubusercontent.com/crossutility/Quantumult-X/refs/heads/master/ios18-safari-fingerprint.txt
+https://raw.githubusercontent.com/crossutility/Quantumult-X/refs/heads/master/ios26-safari-fingerprint.txt
 https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt

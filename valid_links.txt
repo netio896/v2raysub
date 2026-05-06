@@ -1,4 +1,4 @@
-# 更新时间：2026-05-05 04:57:54.935960
+# 更新时间：2026-05-06 05:26:22.986842
 https://raw.githubusercontent.com/951mmm/nixconfig/979034a291bda1c4a9189ed8e6434d7686c5120a/services/mihomo/cmy.yaml
 https://raw.githubusercontent.com/Alex0510/onskr/refs/heads/main/proxies.txt
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/hysteria2.txt

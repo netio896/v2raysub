@@ -1,4 +1,4 @@
-# 更新时间：2026-05-27 06:16:56.044499
+# 更新时间：2026-05-28 06:08:14.090715
 https://raw.githubusercontent.com/Alex0510/onskr/refs/heads/main/proxies.txt
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/hysteria2.txt
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/ss.txt
@@ -27,6 +27,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub4.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub5.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub6.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub7.txt
+https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub8.txt
 https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt

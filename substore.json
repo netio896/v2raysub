@@ -54,78 +54,74 @@
     },
     {
       "name": "订阅14",
-      "url": "https://raw.githubusercontent.com/anaer/Sub/refs/heads/main/proxies.yaml"
-    },
-    {
-      "name": "订阅15",
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt"
     },
     {
-      "name": "订阅16",
+      "name": "订阅15",
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_base64_Sub.txt"
     },
     {
-      "name": "订阅17",
+      "name": "订阅16",
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/ss.txt"
     },
     {
-      "name": "订阅18",
+      "name": "订阅17",
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/ssr.txt"
     },
     {
-      "name": "订阅19",
+      "name": "订阅18",
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/trojan.txt"
     },
     {
-      "name": "订阅20",
+      "name": "订阅19",
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/vless.txt"
     },
     {
-      "name": "订阅21",
+      "name": "订阅20",
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/vmess.txt"
     },
     {
-      "name": "订阅22",
+      "name": "订阅21",
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt"
     },
     {
-      "name": "订阅23",
+      "name": "订阅22",
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub2.txt"
     },
     {
-      "name": "订阅24",
+      "name": "订阅23",
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub3.txt"
     },
     {
-      "name": "订阅25",
+      "name": "订阅24",
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub4.txt"
     },
     {
-      "name": "订阅26",
+      "name": "订阅25",
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub5.txt"
     },
     {
-      "name": "订阅27",
+      "name": "订阅26",
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub6.txt"
     },
     {
-      "name": "订阅28",
+      "name": "订阅27",
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub7.txt"
     },
     {
-      "name": "订阅29",
+      "name": "订阅28",
       "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub8.txt"
     },
     {
-      "name": "订阅30",
+      "name": "订阅29",
       "url": "https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt"
     },
     {
-      "name": "订阅31",
+      "name": "订阅30",
       "url": "https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml"
     },
     {
-      "name": "订阅32",
+      "name": "订阅31",
       "url": "https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt"
     }
   ]

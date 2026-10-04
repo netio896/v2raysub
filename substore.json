@@ -114,30 +114,34 @@
     },
     {
       "name": "订阅29",
-      "url": "https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml"
+      "url": "https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt"
     },
     {
       "name": "订阅30",
-      "url": "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt"
+      "url": "https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml"
     },
     {
       "name": "订阅31",
-      "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/base64.txt"
+      "url": "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt"
     },
     {
       "name": "订阅32",
-      "url": "https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/all.yaml"
+      "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/base64.txt"
     },
     {
       "name": "订阅33",
-      "url": "https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/base64.txt"
+      "url": "https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/all.yaml"
     },
     {
       "name": "订阅34",
-      "url": "https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt"
+      "url": "https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/base64.txt"
     },
     {
       "name": "订阅35",
+      "url": "https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt"
+    },
+    {
+      "name": "订阅36",
       "url": "https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/nodes.txt"
     }
   ]

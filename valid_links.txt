@@ -1,4 +1,4 @@
-# 更新时间：2026-10-03 07:31:57.439351
+# 更新时间：2026-10-04 07:43:14.921032
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/hysteria2.txt
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/ss.txt
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/trojan.txt
@@ -27,6 +27,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub5.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub6.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub7.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub8.txt
+https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt
 https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/base64.txt

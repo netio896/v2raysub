@@ -1,4 +1,5 @@
-# 更新时间：2026-10-29 07:57:53.444036
+# 更新时间：2026-10-30 08:00:06.523042
+https://raw.githubusercontent.com/Alex0510/onskr/refs/heads/main/proxies.txt
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/hysteria2.txt
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/ss.txt
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/trojan.txt
@@ -11,6 +12,7 @@ https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/subs/sub39.txt
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/subs/sub4.txt
 https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/super-sub.txt
+https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config_extra.yaml
 https://raw.githubusercontent.com/anaer/Sub/refs/heads/main/proxies.yaml
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_base64_Sub.txt
@@ -34,4 +36,5 @@ https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/base64.txt
 https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/all.yaml
 https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/base64.txt
 https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt
+https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
 https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/nodes.txt

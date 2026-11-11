@@ -146,18 +146,14 @@
     },
     {
       "name": "订阅37",
-      "url": "https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/base64.txt"
-    },
-    {
-      "name": "订阅38",
       "url": "https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt"
     },
     {
-      "name": "订阅39",
+      "name": "订阅38",
       "url": "https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml"
     },
     {
-      "name": "订阅40",
+      "name": "订阅39",
       "url": "https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/nodes.txt"
     }
   ]
